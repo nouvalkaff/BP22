@@ -1,2 +1,2 @@
 # BP22
-This is where I store the glosarium of codes
+This is where I store the glossary of codes
