@@ -1,0 +1,16 @@
+[
+ {
+  "id": "e71ebb10-a00f-4c15-8af5-e9b2e5fc4f51",
+  "Aktivitas": "Bangun tidur",
+  "Waktu": "6 AM",
+  "Status": "Berhasil",
+  "Ulangi": "Ya"
+ },
+ {
+  "id": "53a524d7-1c2a-4433-ac9b-0829f8968012",
+  "Aktivitas": "Main PS",
+  "Waktu": "10 AM",
+  "Status": "Tidah Berhasil",
+  "Ulangi": "Ya"
+ }
+]
