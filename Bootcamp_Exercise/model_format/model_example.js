@@ -36,7 +36,7 @@ const PlayStationSchema = new Schema(
       },
     ],
     createdBy: {
-      type: Schema.ObjectId,
+      type: ObjectId,
       ref: "Customer",
     },
     createdDate: {
@@ -44,7 +44,7 @@ const PlayStationSchema = new Schema(
       default: Date.now(),
     },
     updatedBy: {
-      type: Schema.ObjectId,
+      type: ObjectId,
       ref: "Customer",
     },
     updatedDate: {
