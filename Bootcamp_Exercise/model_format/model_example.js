@@ -79,7 +79,7 @@ const PlayStationSchema = new Schema(
       default: false,
     },
   },
-  { collection: "packageManagement" }
+  { collection: "PS_Transaction" }
 );
-const PackageManagement = mongoose.model("PackageManagement", packageManagementSchema);
-module.exports = PackageManagement;
+const PlayStation_Tr = mongoose.model("PS_Trxn", PlayStationSchema);
+module.exports = PlayStation_Tr;
